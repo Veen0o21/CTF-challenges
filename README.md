@@ -8,11 +8,11 @@
 
 ---
 
-## 📺 Full Walkthroughs
+## 📺 Full Challenge Walkthroughs
 
 📌 I provide full explanations and step-by-step walkthroughs for each challenge on my YouTube channel:  
-👉 [Vee Security]( [www.youtube.com/@Veen0o21](https://youtube.com/@veen0o21?si=5aZQdi9z1YycOVps))
+👉 [Vee Security on YouTube](https://youtube.com/@veen0o21?si=5aZQdi9z1YycOVps)
 
-Feel free to follow along and learn how each challenge was approached, analyzed, and solved.
+Feel free to follow along and learn how each challenge was approached, analyzed, and and explained clearly in Arabic.
 
 ---
