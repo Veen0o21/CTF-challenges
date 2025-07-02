@@ -1,1 +1,18 @@
 # CTF-challenges
+
+🎯 This repository contains my personal solutions to various Capture The Flag (CTF) challenges, written in Python.
+
+🔐 The challenges cover categories such as:
+- Web exploitation
+- Cryptography
+
+---
+
+## 📺 Full Walkthroughs
+
+📌 I provide full explanations and step-by-step walkthroughs for each challenge on my YouTube channel:  
+👉 [Vee Security]( www.youtube.com/@Veen0o21)
+
+Feel free to follow along and learn how each challenge was approached, analyzed, and solved.
+
+---
