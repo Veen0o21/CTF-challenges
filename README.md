@@ -5,7 +5,7 @@
 🔐 The challenges cover categories such as:
 - Web exploitation
 - Cryptography
-- OSIT
+- OSINT
 
 ---
 
